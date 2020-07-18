@@ -4,6 +4,8 @@ It will askt he user to enter some details needed and the app will format it for
 
 *Will be using a vanilla javascript with node.js!*
 
+[How to create a Professional README]*(./readme-guide.md)*
+
 # USER STORY
 AS A developer
 I WANT a README generator
