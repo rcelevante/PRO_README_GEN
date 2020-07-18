@@ -38,3 +38,13 @@ __THEN__ this is added to the section of the README entitled Questions, with ins
 __WHEN__ I click on the links in the Table of Contents
 
 __THEN__ I am taken to the corresponding section of the README
+
+
+# Usage
+It will prompt user to input their answers about their project. When user finishes through the questions, it will generate a README file.
+
+# Credits
+Credits to Rochelle Ruiz! That's me! I did this project! 
+
+# License
+MIT
