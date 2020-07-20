@@ -41,6 +41,8 @@ __WHEN__ I click on the links in the Table of Contents
 
 __THEN__ I am taken to the corresponding section of the README
 
+# Video
+[![Watch the video](Snip20200719_2.png)](https://www.youtube.com/watch?v=JpKe23OQSWw&t=9s)
 
 # Usage
 It will prompt user to input their answers about their project. When user finishes through the questions, it will generate a README file.
