@@ -1,6 +1,6 @@
 # PRO_README_GEN
 An app that generates a professional README page for their repository.
-It will askt he user to enter some details needed and the app will format it for you! Easy as that!
+It will ask the user to enter some details needed and the app will format it for you! Easy as that!
 
 *Will be using a vanilla javascript with node.js!*
 
@@ -48,7 +48,7 @@ __THEN__ I am taken to the corresponding section of the README
 It will prompt user to input their answers about their project. When user finishes through the questions, it will generate a README file.
 
 # Credits
-Credits to Rochelle Ruiz! That's me! I did this project! 
+Credits to Rochelle Ruiz! That's me! I did this project! I lost a bunch of my commits. I nearly lost all my codes due to trying to push the repo with a large file(video). I decided to delete the video out of the folder and pushed it back but the commit has teh video attached to it. I did some git commands which deleted all my codes. Finally we got it back and did it the cleanest way possible.
 
 # License
 MIT
